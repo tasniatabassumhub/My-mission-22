@@ -1,5 +1,7 @@
 body{
     font-family: 'Redressed', cursive;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .purple-color{
     color: yellowgreen;
@@ -43,7 +45,7 @@ body{
     border-image-slice: 1;
 }
 .one-third img{
-    width: 40%;
+    width: 60%;
     padding-top: 5%;
     padding-bottom: 5%;
 
@@ -54,9 +56,29 @@ body{
     text-align: center;
     padding-bottom: 5%;
     }
-
-
-
+.bl-color{
+    color:rgb(145, 136, 11) ;
+}
+.choosing-web-dev{
+    display: flex;
+    margin: 20px;
+}
+.choosing-web-dev1{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+}
+.choosing-web-dev1 img{
+    width: 60%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 20%;
+}
+#q{
+    padding-top: 5%;
+    padding-right: 20%;
+}
 
 
 

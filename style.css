@@ -27,7 +27,7 @@ body{
 .wh-color{
     color: deeppink;
 }
-.my-mission-22{
+.flex-container{
     display: flex;
 }
 .one-third{
@@ -37,7 +37,7 @@ body{
     box-shadow: 10px 10px 50px gray;
     padding-left: 5%;
     padding-bottom: 5%;
-    padding-top: 5%;
+    padding-top: 10%%;
     border-radius: 10%;
     border-left-width: 10px solid;
     border-image-slice: 1;
@@ -48,6 +48,13 @@ body{
     padding-bottom: 5%;
 
 }
+#r{
+    width:500px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 5%;
+    }
+
 
 
 

@@ -1,0 +1,59 @@
+body{
+    font-family: 'Redressed', cursive;
+}
+.purple-color{
+    color: yellowgreen;
+}
+.green-color{
+    color: rebeccapurple;
+}
+.pink-color{
+    color: darkgoldenrod;
+}
+.My-mission{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+}
+.half-width img{
+    width: 60%;
+    padding-top:5%;
+    padding-bottom: 20%;
+}
+.wh-color{
+    color: deeppink;
+}
+.my-mission-22{
+    display: flex;
+}
+.one-third{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 50px gray;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    border-radius: 10%;
+    border-left-width: 10px solid;
+    border-image-slice: 1;
+}
+.one-third img{
+    width: 40%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+
+
+
+
+
+
+
+
+    

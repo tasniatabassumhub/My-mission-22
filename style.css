@@ -14,12 +14,15 @@ body{
 }
 .My-mission{
     display: flex;
+    background-image: url(shapes/top-banner.png);
+    background-repeat: no-repeat;
 }
 .half-width{
     width: 50%;
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 5%;
+    
 }
 .half-width img{
     width: 60%;
@@ -41,8 +44,7 @@ body{
     padding-bottom: 5%;
     padding-top: 10%%;
     border-radius: 10%;
-    border-left-width: 10px solid;
-    border-image-slice: 1;
+    
 }
 .one-third img{
     width: 60%;
@@ -62,27 +64,60 @@ body{
 .choosing-web-dev{
     display: flex;
     margin: 20px;
+    background-image: url(shapes/shape-5.png);
+    background-repeat: no-repeat;
+    padding-bottom: 10%;
 }
 .choosing-web-dev1{
     width: 50%;
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 5%;
+    
 }
 .choosing-web-dev1 img{
     width: 60%;
     padding-top: 5%;
     padding-bottom: 5%;
-    padding-right: 20%;
+    padding-left: 30%;
 }
 #q{
     padding-top: 5%;
     padding-right: 20%;
 }
+.blue-color{
+    color: coral;
+}
+.Web-Development-Community{
+    display: flex;
 
-
-
-
-
-
+}
+.web-dev-com{
+    widht:50%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    background-image: url(shapes/shape-6.png);
+    background-repeat: no-repeat;
+}
+.web-dev-com img{
+    width: 70%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.one-third{
+    background-image: url(shapes/shape-8.png);
+    background-repeat: no-repeat;
+}
+.my-misiion-22{
+    margin-bottom: 20%;
+}
+#m{
+    border-left: 10px solid;
+    border-image: linear-gradiant(coral cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
     

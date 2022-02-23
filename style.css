@@ -34,6 +34,7 @@ body{
 }
 .flex-container{
     display: flex;
+    margin-bottom: 20%;
 }
 .one-third{
     width: 30%;
@@ -90,6 +91,8 @@ body{
 }
 .Web-Development-Community{
     display: flex;
+    padding-bottom: 30%;
+    margin-bottom: 20%;
 
 }
 .web-dev-com{
